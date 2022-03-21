@@ -1,1 +1,13 @@
-En este ejercicio la meta es crear un feed de imagenes con algun texto predeterminado,lo hice creando un HTML con unaestructura de header, imagen y una especie de footer, que seria los comentarios, para luego moldearle y ponerle la forma con el CSS,cosaque meparecio interesante en este ejercicio fue el como podemos hacer encajar las cosas por ejemplo en el header el texto en cada esquina, eran las coasas que mas me costaban, pero luego aplicando una porcion a la etiquetaen el "div" en la que se encuentran,sehace un poco mas facil y asi irle dando forma al feed
+El objetivo del ejercicio es aplicando HTML y CSS lograr obtener un Feed de post parecidoainstagram
+
+
+Para visualizar y ejecutar el proyecto:
+
+    En la terminal:
+        º Copiar y pegar pip3 install flask
+        º Copiar y pegar python3 server.py
+
+***EN LO PERSONAL***
+
+Creo que es la combinacion perfecta en la cual reforzamos los conocimiento de HTML y CSS que venimos aprendiendo y aplicamos de manera conjunta y compacta para generar un feed completo, aunque unaveztienesla estructura basica del post base, que se logra teniendo en cuentael tema del <div> y la proporcipn que puede tener cada elemento dentro del mismo 
+
